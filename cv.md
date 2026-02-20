@@ -57,5 +57,7 @@ HTML and CSS were studied by writing the code for the [«4 правила вёр
 JavaScript was studied by writing code for a website about [procrastination](https://code.s3.yandex.net/web-developer/procrastinate/index.html).
 
 ## EDUCATION
+**College of Automation and Radio Electronics No. 27** - specialty *electrician*\
+**RS School** - course *“JavaScript/Front-end”* (in progress)
 
 ## LANGUAGES
