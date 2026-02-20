@@ -7,7 +7,7 @@
 **E-mail:** ale.amans.an@gmail.com\
 **GitHub:** [AleAmans](https://github.com/AleAmans)\
 **Discord:** [@AleAmans](https://discordapp.com/users/952332536112103534)\
-**Telegram:** [@Amantes_Cor](https://t.me/Amantes_Cor)\
+**Telegram:** [@Amantes_Cor](https://t.me/Amantes_Cor)
 
 ## ABOUT ME
 
